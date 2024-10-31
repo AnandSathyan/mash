@@ -81,15 +81,16 @@ const Navbar = () => {
             <div className={classOne} id="navbarSupportedContent">
               <ul className="navbar-nav">
                 <li className="nav-item">
-                  <Link
-                    href="#"
-                    className="nav-link"
-                    onClick={(e) => e.preventDefault()}
-                  >
+                <Link
+                        href="/index3/"
+                        className={`nav-link ${
+                          currentPath == "/index3/" && "active"
+                        }`}
+                      >
                     Home <i className="bx bx-chevron-down"></i>
                   </Link>
 
-                  <ul className="dropdown-menu">
+                  {/* <ul className="dropdown-menu">
                     <li className="nav-item">
                       <Link
                         href="/"
@@ -175,7 +176,7 @@ const Navbar = () => {
                         Home Eight
                       </Link>
                     </li>
-                  </ul>
+                  </ul> */}
                 </li>
 
                 <li className="nav-item">

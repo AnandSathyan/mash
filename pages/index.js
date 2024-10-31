@@ -1,36 +1,39 @@
-import Navbar from "../components/Layout/Navbar";
-import BannerSlider from "../components/HomeOne/BannerSlider";
-import Features from "../components/HomeOne/Features";
-import AboutUs from "../components/HomeOne/AboutUs";
-import Services from "../components/HomeOne/Services";
-import ServiceDevelopment from "../components/HomeOne/ServiceDevelopment";
-import IntroVideo from "../components/HomeOne/IntroVideo";
-import WhyChooseUs from "../components/HomeOne/WhyChooseUs";
-import Projects from "../components/HomeOne/Projects";
+import NavbarStyleTwo from "../components/Layout/NavbarStyleTwo";
+import Banner from "../components/HomeThree/Banner";
+import Services from "../components/HomeThree/Services";
+import SmartApproach from "../components/HomeThree/SmartApproach";
+import FeaturedSolutions from "../components/HomeThree/FeaturedSolutions";
+import ServiceOverview from "../components/HomeThree/ServiceOverview";
+import FunFactsStyleTwo from "../components/Common/FunFactsStyleTwo";
+import TeamStyleTwo from "../components/Common/TeamStyleTwo";
+import PricingCard from "../components/Pricing/PricingCard";
+import Portfolio from "../components/HomeThree/Portfolio";
 import FeedbackStyleOne from "../components/Common/FeedbackStyleOne";
 import BlogPost from "../components/Common/BlogPost";
 import Footer from "../components/Layout/Footer";
 
-export default function Home() {
+export default function Home3() {
   return (
     <>
-      <Navbar />
+      <NavbarStyleTwo />
 
-      <BannerSlider />
-
-      <Features />
-
-      <AboutUs />
+      <Banner />
 
       <Services />
 
-      <ServiceDevelopment />
+      <SmartApproach />
 
-      <IntroVideo />
+      <FeaturedSolutions />
 
-      <WhyChooseUs />
+      <ServiceOverview />
 
-      <Projects />
+      <FunFactsStyleTwo />
+
+      <TeamStyleTwo />
+
+      <PricingCard />
+
+      <Portfolio />
 
       <FeedbackStyleOne />
 
