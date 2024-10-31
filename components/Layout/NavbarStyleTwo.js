@@ -180,15 +180,18 @@ const NavbarStyleTwo = () => {
 
                 <li className="nav-item">
                   <Link
-                    href="#"
-                    className="nav-link"
-                    onClick={(e) => e.preventDefault()}
+                    href="/services/"
+                    className={`nav-link ${
+                      currentPath == "/services/" && "active"
+                    }`}
+                    // onClick={(e) => e.preventDefault()}
                   >
-                    Services <i className="bx bx-chevron-down"></i>
+                    Services 
+                    {/* <i className="bx bx-chevron-down"></i> */}
                   </Link>
 
-                  <ul className="dropdown-menu">
-                    <li className="nav-item">
+                  {/* <ul className="dropdown-menu"> */}
+                    {/* <li className="nav-item">
                       <Link
                         href="/services/"
                         className={`nav-link ${
@@ -197,7 +200,7 @@ const NavbarStyleTwo = () => {
                       >
                         Services Style One
                       </Link>
-                    </li>
+                    </li> */}
 
                     {/* <li className="nav-item">
                       <Link
@@ -220,7 +223,7 @@ const NavbarStyleTwo = () => {
                         Service Details
                       </Link>
                     </li> */}
-                  </ul>
+                  {/* </ul> */}
                 </li>
 
                 <li className="nav-item">

@@ -78,9 +78,9 @@ const Navbar = () => {
               <ul className="navbar-nav">
                 <li className="nav-item">
                 <Link
-                        href="/index3/"
+                        href="/"
                         className={`nav-link ${
-                          currentPath == "/index3/" && "active"
+                          currentPath == "/" && "active"
                         }`}
                       >
                     Home 
@@ -189,15 +189,16 @@ const Navbar = () => {
 
                 <li className="nav-item">
                   <Link
-                    href="#"
+                     href="/services/"
                     className="nav-link"
-                    onClick={(e) => e.preventDefault()}
+                    // onClick={(e) => e.preventDefault()}
                   >
-                    Services <i className="bx bx-chevron-down"></i>
+                    Services 
+                    {/* <i className="bx bx-chevron-down"></i> */}
                   </Link>
 
-                  <ul className="dropdown-menu">
-                    <li className="nav-item">
+                  {/* <ul className="dropdown-menu"> */}
+                    {/* <li className="nav-item">
                       <Link
                         href="/services/"
                         className={`nav-link ${
@@ -206,7 +207,7 @@ const Navbar = () => {
                       >
                         Services Style One
                       </Link>
-                    </li>
+                    </li> */}
 
                     {/* <li className="nav-item">
                       <Link
@@ -229,7 +230,7 @@ const Navbar = () => {
                         Service Details
                       </Link>
                     </li> */}
-                  </ul>
+                  {/* </ul> */}
                 </li>
 
                 <li className="nav-item">
