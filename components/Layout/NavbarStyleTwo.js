@@ -48,7 +48,7 @@ const NavbarStyleTwo = () => {
         <nav className="navbar navbar-expand-md">
           <div className="container">
             <Link href="/" className="navbar-brand">
-              <Image src="/images/logo/logo1.png" alt="logo" width={120} height={43} />
+              <Image src="/images/logo/logos.jpeg" alt="logo" width={100} height={43} />
             </Link>
 
             <button

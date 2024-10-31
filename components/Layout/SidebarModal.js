@@ -33,9 +33,9 @@ const SidebarModal = ({ active, onClick }) => {
             <div className="contact-info">
               <div className="contact-info-content">
                 <h2>
-                  <a className="pnumber">+088 130 629 8615</a>
+                  <a className="pnumber">+965 23926969 </a>
                   <span className="or">OR</span>
-                  <a className="email">hello@luzon.com</a>
+                  <a className="email">info@sinnoxkw.com</a>
                 </h2>
 
                 <ul className="social">
