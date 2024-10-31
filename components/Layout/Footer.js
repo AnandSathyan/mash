@@ -132,19 +132,21 @@ const Footer = () => {
                 <div className="footer-info-contact">
                   <i className="flaticon-phone-call"></i>
                   <h3>Phone</h3>
-                  <span>+123(456)123</span>
+                  <span>+965 23926969 </span>
                 </div>
 
                 <div className="footer-info-contact">
                   <i className="flaticon-envelope"></i>
                   <h3>Email</h3>
-                  <span>hello@luzon.com</span>
+                  <span>info@sinnoxkw.com</span>
                 </div>
 
                 <div className="footer-info-contact">
                   <i className="flaticon-pin"></i>
                   <h3>Address</h3>
-                  <span>32 st Kilda Road, Melbourne VIC, 3004 Australia</span>
+                  <span>Olive Building, 1st Floor, Office No 14
+Fahaheel 64026 , Kuwait, P.O.Box : 47502
+</span>
                 </div>
               </div>
             </div>

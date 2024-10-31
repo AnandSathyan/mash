@@ -14,7 +14,7 @@ const FunFacts = () => {
                     <div className="icon">
                       <i className="flaticon-check"></i>
                     </div>
-                    <h3>950</h3>
+                    <h3>50+</h3>
                     <p>Completed Projects</p>
                   </div>
                 </div>

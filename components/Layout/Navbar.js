@@ -56,7 +56,7 @@ const Navbar = () => {
           <div className="container">
             <Link href="/" className="navbar-brand">
               <Image
-                src="/images/logo.png"
+                src="/pdf/sinnox-logo.pdf"
                 alt="logo"
                 width={130}
                 height={43}

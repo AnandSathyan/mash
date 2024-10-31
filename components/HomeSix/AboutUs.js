@@ -24,7 +24,7 @@ const AboutUs = () => {
                   <div className="col-sm-6">
                     <div className="work-status">
                       <h3>
-                        50 <span className="sign-icon">K</span>
+                        50 <span className="sign-icon">+</span>
                       </h3>
                       <h4>Completed Project</h4>
                       <p>

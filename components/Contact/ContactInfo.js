@@ -12,7 +12,9 @@ const ContactInfo = () => {
                 <div className="content-title">
                   <h3>Address</h3>
                   <p>
-                    32 st Kilda Road, Melbourne VIC, <br /> 3004 Australia
+                  Olive Building, 1st Floor, Office No 14
+
+ <br />Fahaheel 64026 , Kuwait, P.O.Box : 47502
                   </p>
                 </div>
               </div>

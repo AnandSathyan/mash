@@ -7,7 +7,7 @@ const OurAchievement = () => {
         <div className="container">
           <div className="section-title">
             <h2>
-              We have Completed <span>20000+</span> Projects{" "}
+              We have Completed <span>50+</span> Projects{" "}
               <span>Successfully</span>
             </h2>
             <div className="bar"></div>
@@ -61,7 +61,7 @@ const OurAchievement = () => {
                     <div className="icon">
                       <i className="flaticon-check"></i>
                     </div>
-                    <h3>950</h3>
+                    <h3>50+</h3>
                     <p>Completed Projects</p>
                   </div>
                 </div>

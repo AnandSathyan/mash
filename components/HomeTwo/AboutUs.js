@@ -32,7 +32,7 @@ const AboutUs = () => {
                     <div className="work-status">
                       <h3>
                         <span className="odometer">50</span>
-                        <span className="sign-icon">K</span>
+                        <span className="sign-icon">+</span>
                       </h3>
                       <h4>Completed Project</h4>
                       <p>

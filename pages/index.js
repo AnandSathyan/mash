@@ -29,15 +29,15 @@ export default function Home3() {
 
       <FunFactsStyleTwo />
 
-      <TeamStyleTwo />
+      {/* <TeamStyleTwo />   */}
 
       <PricingCard />
 
-      <Portfolio />
+      {/* <Portfolio /> */}
 
-      <FeedbackStyleOne />
+      {/* <FeedbackStyleOne /> */}
 
-      <BlogPost />
+      {/* <BlogPost /> */}
 
       <Footer />
     </>
