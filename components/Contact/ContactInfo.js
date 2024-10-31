@@ -25,8 +25,8 @@ const ContactInfo = () => {
                 <i className="flaticon-envelope"></i>
                 <div className="content-title">
                   <h3>Email</h3>
-                  <p>hello@luzon.com</p>
-                  <p>fax@luzon.com</p>
+                  <p>info@sinnoxkw.com </p>
+                  <p> +965 23929696</p>
                 </div>
               </div>
             </div>
@@ -36,8 +36,8 @@ const ContactInfo = () => {
                 <i className="flaticon-phone-call"></i>
                 <div className="content-title">
                   <h3>Phone</h3>
-                  <p>+123(456)123</p>
-                  <p>+126(446)129</p>
+                  <p> +965 23929696</p>
+                  <p> +965 23926969</p>
                 </div>
               </div>
             </div>

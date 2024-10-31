@@ -59,9 +59,7 @@ const ContactForm = () => {
               <div className="contact-text">
                 <h3>Have Any Questions About Us?</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
+                We're here to help! Whether you want to learn more about our services, discuss a project, or simply get to know us better, feel free to reach out. Our team is ready to answer your questions and guide you through how we can support your goals. Let’s start a conversation!
                 </p>
               </div>
 
