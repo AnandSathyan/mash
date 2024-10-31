@@ -8,7 +8,7 @@ const Services = () => {
       <section className="services-section pt-100 pb-70">
         <div className="container">
           <div className="section-title">
-            <h2>IT Agency Services</h2>
+            <h2>IT Agency Servicess</h2>
             <p>
             Our agency offers a full suite of IT solutions tailored to meet modern business needs. From custom software development and cybersecurity to cloud integration and IT consulting, we provide innovative services designed to drive efficiency, security, and growth. Let us help transform your technology landscape and propel your business forward.
             </p>
