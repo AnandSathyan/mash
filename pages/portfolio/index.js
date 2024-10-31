@@ -9,7 +9,7 @@ export default function Projects() {
       <Navbar />
 
       <PageBanner
-        pageTitle="/ortfolio/"
+        pageTitle="/Portfolio/"
         homePageUrl="/"
         homePageText="Home"
         activePageText="/portfolio/"

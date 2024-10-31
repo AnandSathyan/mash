@@ -235,7 +235,7 @@ const Navbar = () => {
 
                 <li className="nav-item">
                   <Link
-                    href="/portfolio"
+                    href="/portfolio/2"
                     className="nav-link"
                     // onClick={(e) => e.preventDefault()}
                   >
