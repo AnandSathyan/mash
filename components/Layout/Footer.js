@@ -42,8 +42,7 @@ const Footer = () => {
                 </div>
 
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt
+                Leading E-Commerce Web Design and Mobile App Development Company in Kuwait – Specializing in SEO, KNET Integration, and iOS/Android Solutions
                 </p>
 
                 <ul className="footer-social">
@@ -82,13 +81,13 @@ const Footer = () => {
                     <Link href="/about">About Us</Link>
                   </li>
                   <li>
-                    <Link href="/projects">Projects</Link>
+                    {/* <Link href="/projects">Projects</Link> */}
                   </li>
                   <li>
                     <Link href="/services">Services</Link>
                   </li>
                   <li>
-                    <Link href="/blog">Blog</Link>
+                    <Link href="/portfolio">Portfolio</Link>
                   </li>
                   <li>
                     <Link href="/contact">Contact</Link>

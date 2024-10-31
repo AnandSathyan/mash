@@ -9,10 +9,10 @@ export default function Projects() {
       <Navbar />
 
       <PageBanner
-        pageTitle="Projects One"
+        pageTitle="/ortfolio/"
         homePageUrl="/"
         homePageText="Home"
-        activePageText="Projects Style One"
+        activePageText="/portfolio/"
         bgImage="/images/page-title/page-title-bg-2.jpg"
       />
 

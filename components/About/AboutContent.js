@@ -45,13 +45,10 @@ const AboutContent = () => {
 
             <div className="col-lg-6">
               <div className="about-tab">
-                <h2>About Our Luzon Agency</h2>
+                <h2>About Sinnox </h2>
                 <div className="bar"></div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat.
+                Company with a powerful team in ecommerce website design and mobile app development. Our web design company specializes in ecommerce website development, SEO services, KNET integration, and iOS app development for iPhone/iPad, as well as Android apps development. We offer comprehensive web design services in Kuwait, including mobile app development.
                 </p>
 
                 <div className="tab about-list-tab">
@@ -102,12 +99,12 @@ const AboutContent = () => {
                         </li>
                       </ul>
 
-                      <p>
+                      {/* <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                         sed do eiusmod tempor incididunt ut labore et dolore
                         magna aliqua. Quis ipsum suspendisse ultrices gravida.
                         Risus commodo viverra maecenas accumsan facilisis.
-                      </p>
+                      </p> */}
 
                       <Link href="/about" className="default-btn">
                         Discover More
@@ -141,12 +138,12 @@ const AboutContent = () => {
                         </li>
                       </ul>
 
-                      <p>
+                      {/* <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                         sed do eiusmod tempor incididunt ut labore et dolore
                         magna aliqua. Quis ipsum suspendisse ultrices gravida.
                         Risus commodo viverra maecenas accumsan facilisis.
-                      </p>
+                      </p> */}
 
                       <Link href="/about" className="default-btn">
                         Discover More
@@ -180,12 +177,12 @@ const AboutContent = () => {
                         </li>
                       </ul>
 
-                      <p>
+                      {/* <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                         sed do eiusmod tempor incididunt ut labore et dolore
                         magna aliqua. Quis ipsum suspendisse ultrices gravida.
                         Risus commodo viverra maecenas accumsan facilisis.
-                      </p>
+                      </p> */}
 
                       <Link href="/about" className="default-btn">
                         Discover More

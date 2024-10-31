@@ -3,16 +3,16 @@ import PageBanner from "../../../components/Common/PageBanner";
 import ProjectsStyleTwo from "../../../components/Projects/ProjectsStyleTwo";
 import Footer from "../../../components/Layout/Footer";
 
-export default function Projects2() {
+export default function Portfolio() {
   return (
     <>
       <Navbar />
 
       <PageBanner
-        pageTitle="Projects Two"
+        pageTitle="portfolio"
         homePageUrl="/"
         homePageText="Home"
-        activePageText="Projects Style Two"
+        activePageText="portfolio"
         bgImage="/images/page-title/page-title-bg-3.jpg"
       />
 

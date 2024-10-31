@@ -235,14 +235,15 @@ const Navbar = () => {
 
                 <li className="nav-item">
                   <Link
-                    href="/#"
+                    href="/portfolio"
                     className="nav-link"
-                    onClick={(e) => e.preventDefault()}
+                    // onClick={(e) => e.preventDefault()}
                   >
-                    Portfolio <i className="bx bx-chevron-down"></i>
+                    Portfolio 
+                    {/* <i className="bx bx-chevron-down"></i> */}
                   </Link>
 
-                  <ul className="dropdown-menu">
+                  {/* <ul className="dropdown-menu">
                     <li className="nav-item">
                       <Link
                         href="/projects/"
@@ -275,7 +276,7 @@ const Navbar = () => {
                         Portfolio Details
                       </Link>
                     </li>
-                  </ul>
+                  </ul> */}
                 </li>
 
                 {/* <li className="nav-item">

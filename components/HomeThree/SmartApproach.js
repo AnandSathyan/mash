@@ -25,21 +25,11 @@ const SmartApproach = () => {
                 <div className="bar"></div>
 
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremque laudantium, totam rem aperiam, eaque
-                  ipsa quae ab illo inventore veritatis et quasi architecto
-                  beatae vitae dicta sunt explicabo.
+                In today’s digital world, connecting with new audiences requires more than just attention-grabbing tactics—it’s about building meaningful relationships. A smart approach combines personalized content with social media and influencer partnerships to boost relevance and credibility. By offering value-first resources like blogs and videos, brands can attract new users organically.
                 </p>
 
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-                  irure dolor in reprehenderit in voluptate velit esse cillum
-                  dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                  cupidatat non proident, sunt in culpa qui officia deserunt
-                  mollit anim id est laborum.
+                Engaging experiences like polls and Q&As foster interaction, while data-driven insights allow continuous refinement of the strategy. This balanced, audience-focused approach helps establish trust, making your brand both memorable and impactful to new audiences.
                 </p>
 
                 <div className="audience-btn">

@@ -20,10 +20,10 @@ export default function About() {
 
       <AboutContent />
 
-      <TeamStyleTwo />
+      {/* <TeamStyleTwo /> */}
 
       <div className="pb-100">
-        <FeedbackStyleOne />
+        {/* <FeedbackStyleOne /> */}
       </div>
 
       <Footer />
