@@ -15,9 +15,7 @@ const Services = () => {
           <div className="section-title">
             <h2>IT Agency Services</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incidiunt labore et dolore magna aliqua. Quis ipsum
-              suspendisse ultrices gravida.
+            Our agency offers a full suite of IT solutions tailored to meet modern business needs. From custom software development and cybersecurity to cloud integration and IT consulting, we provide innovative services designed to drive efficiency, security, and growth. Let us help transform your technology landscape and propel your business forward.
             </p>
             <div className="bar"></div>
           </div>
@@ -187,8 +185,15 @@ Our app store optimization services help your application to stand out from the 
                 </div>
                 <h3>IT Solutions</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore facilisis.
+                {isExpanded ? (
+                    // Full content when expanded
+                    <>
+                Our agency offers a full suite of IT solutions tailored to meet modern business needs. From custom software development and cybersecurity to cloud integration and IT consulting, we provide innovative services designed to drive efficiency, security, and growth. Let us help transform your technology landscape and propel your business forward.
+                </>
+                 ) : (
+                  // Short content when collapsed
+                  "Our agency offers a full suite of IT solutions tailored to meet modern business needs.From custom software development and cybersecurity..."
+                )}
                 </p>
 
                 <Link href="/services/details" className="read-btn">

@@ -12,9 +12,7 @@ const PricingCard = () => {
               Our <span>Pricing</span> Plan
             </h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incidiunt labore et dolore magna aliqua. Quis ipsum
-              suspendisse ultrices gravida.
+            We offer flexible pricing plans designed to meet diverse needs and budgets. Whether you're a startup or an established business, our packages provide transparent and competitive rates to ensure you get the best value for your investment. Each plan includes dedicated support, tailored services, and scalable solutions to fit your specific requirements. Choose the plan that best aligns with your goals, and let’s get started on your path to success.
             </p>
             <div className="bar"></div>
           </div>

@@ -25,11 +25,7 @@ const ServiceOverview = () => {
                 </h3>
                 <div className="bar"></div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum suspendisse ultrices Lorem Ipsum is simply dummy
-                  tex printing and typesetting industry. Lorem Ipsum has been
-                  the industry
+                Our Design & Development services focus on creating impactful, user-centered digital experiences. We bring ideas to life through innovative design paired with seamless functionality, ensuring that every project we deliver is visually engaging, highly responsive, and optimized for performance. From website development to mobile applications, our team combines creativity with technical expertise to build solutions that captivate users and drive results. Let us help transform your vision into a reality that makes a lasting impression.
                 </p>
 
                 <ul className="design-list">
