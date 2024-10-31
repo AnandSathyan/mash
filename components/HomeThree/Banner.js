@@ -12,12 +12,10 @@ const Banner = () => {
               <div className="row align-items-center">
                 <div className="col-lg-6">
                   <div className="main-banner-content">
-                    <span>Digital Marketing</span>
-                    <h1>Digital Agency and Marketing</h1>
+                    <span>E-Commerce </span>
+                    <h1>Web & Mobile App Development Experts in Kuwait</h1>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing
-                      incididunt ut laboredolore magna aliqua elsed tempomet,
-                      consectetur adipiscing.
+                    Company with a powerful team in ecommerce website design and mobile app development. Our web design company specializes in ecommerce website development, SEO services, KNET integration, and iOS app development for iPhone/iPad, as well as Android apps development. We offer comprehensive web design services in Kuwait, including mobile app development.
                     </p>
 
                     <div className="banner-btn">
