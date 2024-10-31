@@ -116,7 +116,7 @@ const Services = () => {
                 <div className="icon bg-84b7fd">
                   <i className="flaticon-cellphone"></i>
                 </div>
-                <h3>Mobile App Development</h3>
+                <h3 className="text-capitalize text-uppercase">Mobile App Development</h3>
                 <p>
                 {isExpanded ? (
                     // Full content when expanded
@@ -158,8 +158,9 @@ Our app store optimization services help your application to stand out from the 
                  <div className="icon bg-deb0fe">
                   <i className="flaticon-it"></i>
                 </div>
-                <h3>ECOMMERCE WEBSITE DEVELOPMENT SERVICES
-
+                <h3>
+                {/* ECOMMERCE WEBSITE DEVELOPMENT SERVICES */}
+                Ecommerce Website Development Service
 </h3>
                 <p>
                 {isExpanded ? (
