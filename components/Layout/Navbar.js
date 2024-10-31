@@ -87,7 +87,8 @@ const Navbar = () => {
                           currentPath == "/index3/" && "active"
                         }`}
                       >
-                    Home <i className="bx bx-chevron-down"></i>
+                    Home 
+                    {/* <i className="bx bx-chevron-down"></i> */}
                   </Link>
 
                   {/* <ul className="dropdown-menu">
@@ -211,7 +212,7 @@ const Navbar = () => {
                       </Link>
                     </li>
 
-                    <li className="nav-item">
+                    {/* <li className="nav-item">
                       <Link
                         href="/services/2/"
                         className={`nav-link ${
@@ -231,7 +232,7 @@ const Navbar = () => {
                       >
                         Service Details
                       </Link>
-                    </li>
+                    </li> */}
                   </ul>
                 </li>
 
@@ -241,7 +242,7 @@ const Navbar = () => {
                     className="nav-link"
                     onClick={(e) => e.preventDefault()}
                   >
-                    Projects <i className="bx bx-chevron-down"></i>
+                    Portfolio <i className="bx bx-chevron-down"></i>
                   </Link>
 
                   <ul className="dropdown-menu">
@@ -252,7 +253,7 @@ const Navbar = () => {
                           currentPath == "/projects/" && "active"
                         }`}
                       >
-                        Projects Style One
+                        Portfolio Style One
                       </Link>
                     </li>
 
@@ -263,7 +264,7 @@ const Navbar = () => {
                           currentPath == "/projects/2/" && "active"
                         }`}
                       >
-                        Projects Style Two
+                        Portfolio Style Two
                       </Link>
                     </li>
 
@@ -274,13 +275,13 @@ const Navbar = () => {
                           currentPath == "/projects/details/" && "active"
                         }`}
                       >
-                        Project Details
+                        Portfolio Details
                       </Link>
                     </li>
                   </ul>
                 </li>
 
-                <li className="nav-item">
+                {/* <li className="nav-item">
                   <Link
                     href="#"
                     className="nav-link"
@@ -401,9 +402,9 @@ const Navbar = () => {
                       </Link>
                     </li>
                   </ul>
-                </li>
+                </li> */}
 
-                <li className="nav-item">
+                {/* <li className="nav-item">
                   <Link
                     href="#"
                     className="nav-link"
@@ -446,7 +447,7 @@ const Navbar = () => {
                       </Link>
                     </li>
                   </ul>
-                </li>
+                </li> */}
 
                 <li className="nav-item">
                   <Link
