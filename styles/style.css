@@ -1345,7 +1345,7 @@ Services Area CSS
   z-index: 1;
   transition: 0.5s;
   box-shadow: 0 5px 40px 0 rgba(0, 0, 0, 0.11);
-  height: 400px;
+  height: 500px;
 }
 .single-services-one{
   text-align: center;
@@ -3518,7 +3518,7 @@ Solutions Area CSS
 }
 
 .solutions-image {
-  background-size: cover;
+  background-size: fill;
   background-position: center center;
   background-repeat: no-repeat;
   width: 100%;

@@ -180,7 +180,16 @@
   }
   .single-services {
     padding: 20px;
+    
   }
+  .truncate-text {
+    display: -webkit-box; /* For older versions of Safari */
+    -webkit-box-orient: vertical; /* For older versions of Safari */
+    -webkit-line-clamp: 3; /* Limits to 3 lines */
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
   .single-services h3 {
     font-size: 20px;
     margin: 20px 0 8px 0;

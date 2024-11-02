@@ -11,6 +11,7 @@ import Portfolio from "../components/HomeThree/Portfolio";
 import FeedbackStyleOne from "../components/Common/FeedbackStyleOne";
 import BlogPost from "../components/Common/BlogPost";
 import Footer from "../components/Layout/Footer";
+import MarketingSection from "../components/HomeThree/UpdatedFeaturedSoultions";
 
 export default function Home3() {
   return (
@@ -22,6 +23,8 @@ export default function Home3() {
       <Services />
 
       <SmartApproach />
+
+      <MarketingSection/>
 
       <FeaturedSolutions />
 

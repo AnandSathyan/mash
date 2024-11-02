@@ -10,7 +10,7 @@ const FeaturedSolutions = () => {
             <div className="col-lg-6">
               <div className="solutions-content-area">
                 <div className="solutions-content">
-                  <h3>Why Partner with SinnoxWhy Partner with Sinnox</h3>
+                  <h3>Why Partner with SEOC Your Path to SEO & Digital Marketing Success</h3>
                   <div className="bar"></div>
                   <p>
                   We offer a diverse range of solutions crafted to address today’s digital challenges and maximize your business's potential. From innovative advertising methods to in-depth market research, our expertise covers everything you need to thrive in a competitive landscape.
@@ -21,9 +21,9 @@ const FeaturedSolutions = () => {
                   <div className="icon">
                     <i className="flaticon-blog"></i>
                   </div>
-                  <h3>Programmatic Advertising</h3>
+                  <h3>Strategy Development</h3>
                   <p>
-                  Utilize data-driven, automated advertising to reach targeted audiences effectively and boost your campaign’s efficiency.
+                  Based on our findings, we develop customized digital marketing strategy tailored objective.
                   </p>
                 </div>
 
@@ -31,9 +31,9 @@ const FeaturedSolutions = () => {
                   <div className="icon bg-d3fbf9">
                     <i className="flaticon-software"></i>
                   </div>
-                  <h3>Strategy & Research</h3>
+                  <h3>Monitoring & Optimization</h3>
                   <p>
-                  Make informed business decisions with thorough research and a well-planned strategy tailored to your goals and market.
+                  We believe in the power of data-driven decision-making. Throughout the campaign,
                   </p>
                 </div>
 
@@ -41,13 +41,13 @@ const FeaturedSolutions = () => {
                   <div className="icon bg-fce8c9">
                     <i className="flaticon-analysis"></i>
                   </div>
-                  <h3>Design & Development</h3>
+                  <h3>Continuous Improvement</h3>
                   <p>
-                  Bring your ideas to life with our creative design and robust development services, delivering user-friendly and visually appealing solutions.
+                  Digital marketing is an ever-evolving field, and we're committed to staying ahead of the curve.
                   </p>
                 </div>
 
-                <div className="solutions-details">
+                {/* <div className="solutions-details">
                   <div className="icon bg-d5e6fe">
                     <i className="flaticon-laptop"></i>
                   </div>
@@ -55,7 +55,7 @@ const FeaturedSolutions = () => {
                   <p>
                   Build a strong, memorable brand presence with comprehensive marketing strategies that resonate with your audience and drive engagement.
                   </p>
-                </div>
+                </div> */}
               </div>
             </div>
 
@@ -63,7 +63,7 @@ const FeaturedSolutions = () => {
               <div 
                 className="solutions-image"
                 style={{
-                  backgroundImage: `url(/images/solutions.png)`
+                  backgroundImage: `url(https://sinnoxkw.com/wp-content/uploads/2024/08/work-img1.png)`
                 }}
               >
                 <Image
