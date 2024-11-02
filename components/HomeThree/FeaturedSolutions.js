@@ -10,7 +10,7 @@ const FeaturedSolutions = () => {
             <div className="col-lg-6">
               <div className="solutions-content-area">
                 <div className="solutions-content">
-                  <h3>Our Featured Solutions</h3>
+                  <h3>Why Partner with SinnoxWhy Partner with Sinnox</h3>
                   <div className="bar"></div>
                   <p>
                   We offer a diverse range of solutions crafted to address today’s digital challenges and maximize your business's potential. From innovative advertising methods to in-depth market research, our expertise covers everything you need to thrive in a competitive landscape.

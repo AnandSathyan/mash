@@ -34,14 +34,7 @@ const ProjectDetailsContent = () => {
                 <h3>Competitor Analysis</h3>
 
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-                  irure dolor in reprehenderit in voluptate velit esse cillum
-                  dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                  cupidatat non proident, sunt in culpa qui officia deserunt
-                  mollit anim id est laborum.
+                Competitor Analysis is essential for understanding the landscape in which we operate. By examining our competitors' strengths, weaknesses, and unique strategies, we gain valuable insights that allow us to refine our own approach and stay ahead in the market. This analysis helps us identify gaps and opportunities, ensuring that we continually enhance our offerings to meet and exceed customer expectations. With a clear view of the competition, we’re able to make strategic decisions that drive growth and reinforce our commitment to delivering unmatched value.
                 </p>
 
                 <div className="features-text">
@@ -49,16 +42,7 @@ const ProjectDetailsContent = () => {
                     <i className="flaticon-tick"></i> Core Development
                   </h4>
                   <p>
-                    No fake products and services. The customer is king, their
-                    lives and needs are the inspiration. But I must explain to
-                    you how all this mistaken idea of denouncing pleasure and
-                    praising pain was born and I will give you a complete
-                    account of the system, and expound the actual teachings of
-                    the great explorer of the truth, the master-builder of human
-                    happiness. No one rejects, dislikes, or avoids pleasure
-                    itself, because it is pleasure, but because those who do not
-                    know how to pursue pleasure rationally encounter
-                    consequences that are extremely painful.{" "}
+                  We believe in creating genuine, high-quality products and services that prioritize customer needs. At the heart of our development process is a commitment to understanding and addressing the real challenges our customers face. Each product we create is inspired by the people who use it, crafted with the goal of enhancing their lives and meeting their unique requirements. Our focus on quality and innovation drives us to continually improve, delivering solutions that truly make a difference.{" "}
                   </p>
                 </div>
 
@@ -67,25 +51,12 @@ const ProjectDetailsContent = () => {
                     <i className="flaticon-tick"></i> Define Your Choices
                   </h4>
                   <p>
-                    No fake products and services. The customer is king, their
-                    lives and needs are the inspiration. At vero eos et
-                    accusamus et iusto odio dignissimos ducimus qui blanditiis
-                    praesentium voluptatum deleniti atque corrupti quos dolores
-                    et quas molestias excepturi sint occaecati cupiditate non
-                    provident, similique sunt in culpa qui officia deserunt
-                    mollitia animi, id est laborum et dolorum fuga. Et harum
-                    quidem rerum facilis est et expedita distinctio.
+                  Our goal is to empower customers to make informed decisions that best meet their needs. We provide clear, honest information about our products and services, ensuring that every option we offer aligns with our commitment to integrity and quality. By focusing on transparency and reliability, we aim to build trust with our customers, making it easier for them to choose solutions that truly enhance their experience and deliver value.
                   </p>
                 </div>
 
                 <p>
-                  Nost rud no eos, no impedit dissenti as mea, ea vide labor
-                  amus neglegentur vix. Ancillae intellegat vix et. Sit causae
-                  laoreet nolu ise. Ad po exerci nusquam eos te. Cu altera expet
-                  enda qui, munere oblique theo phrastu ea vix. Ne nec modus
-                  civibus modera tius, sit ei lorem doctus. Ne docen di verterem
-                  reformidans eos. Cu altera expetenda qui, munere oblique
-                  theophr astus ea vix modus civiu mod eratius.
+                Our approach is rooted in a deep understanding of customer needs, combined with a commitment to innovation and continuous improvement. We leverage the latest technologies and industry best practices to develop solutions that not only meet but exceed expectations. Every decision we make—from product design to customer support—is centered on providing an exceptional experience. By staying agile and responsive, we ensure that we can adapt to changing market dynamics and always deliver the best possible outcomes for our clients.
                 </p>
 
                 <div className="project-details-info">
