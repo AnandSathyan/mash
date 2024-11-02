@@ -48,7 +48,7 @@ const NavbarStyleTwo = () => {
         <nav className="navbar navbar-expand-md">
           <div className="container">
             <Link href="/" className="navbar-brand">
-              <Image src="/images/logo/logos.jpeg" alt="logo" width={100} height={43} />
+              <Image src="/images/logo/logos.jpeg" alt="logo" width={60} height={33} />
             </Link>
 
             <button
@@ -228,7 +228,7 @@ const NavbarStyleTwo = () => {
 
                 <li className="nav-item">
                   <Link
-                    href="/portfolio/"
+                    href="/portfolio/2/"
                     className="nav-link"
                     // onClick={(e) => e.preventDefault()}
                   >

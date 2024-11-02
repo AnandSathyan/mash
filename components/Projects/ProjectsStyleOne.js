@@ -20,7 +20,7 @@ const ProjectsStyleOne = () => {
                 </div>
 
                 <div className="projects-content">
-                  <Link href="/projects/details">
+                  <Link href="/portfolio/details">
                     <h3>App Update & Rebrand</h3>
                   </Link>
 

@@ -22,33 +22,22 @@ const ServicesStyleOne = () => {
 
           <div className="row">
           <div className="col-lg-4 col-md-6">
-              <div className="single-services">
-                <div className="icon ">
-                   <i className="flaticon-setting"></i>
+              <div className="single-services-one">
+                <div className="icon">
+                  <i className="flaticon-setting"></i>
                 </div>
-                <h3>Web Development</h3>
+                <h3>Web Design & Development</h3>
                 <p>
-                  Bringing Innovation For Global Businesses
-                  <br />
+                
                   {isExpanded ? (
                     // Full content when expanded
                     <>
-                      Being a reliable web development partner, we hold
-                      expertise in offering enhanced website development
-                      services that can bring revolution to our global clients.
-                      Our web development team has served industry-specific
-                      solutions to businesses of different sizes. We have been
-                      serving innovative and excellent solutions, to global
-                      businesses to enhance their web presence. Leveraging our
-                      web development proficiency to work with different website
-                      development technologies, we help them stand out from the
-                      competition. Whether it could be the need to develop
-                      robust websites, web applications, or web portals; our web
-                      developers make sure to bring the best results out there.
+                     Make a lasting impression with a professionally designed and user-friendly website. Our web design and development team crafts custom websites tailored to your brand, ensuring maximum impact and visibility online. Elevate your online presence with our unique designs.
+
                     </>
                   ) : (
                     // Short content when collapsed
-                    " Being a reliable web development partner, we hold expertise in offering enhanced website development services..."
+                    "Make a lasting impression with a professionally designed and user-friendly website. Our web design and development team crafts custom websites tailored to your brand, ensuring maximum impact and visibility online. Elevate your online presence with our unique designs."
                   )}
                 </p>
 
@@ -58,7 +47,7 @@ const ServicesStyleOne = () => {
               </div>
             </div>
             <div className="col-lg-4 col-md-6">
-              <div className="single-services">
+              <div className="single-services-one">
                 {/* <div className="icon bg-deb0fe">
                   <i className="flaticon-it"></i>
                 </div> */}
@@ -78,7 +67,7 @@ const ServicesStyleOne = () => {
                     </>
                   ) : (
                     // Short content when collapsed
-                    " Our dedicated web developers can build B2B and B2C online storefronts and multi-vendor marketplaces to help you start selling online.  From ideation to implementation and performance..."
+                    "Our dedicated web developers can build B2B and B2C online storefronts and multi-vendor marketplaces to help you start selling online. From ideation to implementation and performance tuning - we offer comprehensive eCommerce website development services."
                   )}
                 </p>
                 <Link href="/services/details" className="read-btn">
@@ -87,24 +76,21 @@ const ServicesStyleOne = () => {
               </div>
             </div>
             <div className="col-lg-4 col-md-6">
-              <div className="single-services">
+              <div className="single-services-one">
                 <div className="icon ">
                   <i className="flaticon-promotion"></i>
                 </div>
-                <h3>Industry-specific Business Solutions</h3>
+                <h3>Industry-specific Business Solutions (ERP)</h3>
                 <p>
                   {isExpanded ? (
                     // Full content when expanded
                     <>
-                      From healthcare to retail, education to entertainment -
-                      our business solutions are equipped to overcome various
-                      industry-specific challenges and stand out from the crowd.
-                      Rely on our top-of-the-line expertise to build a high-end
-                      solution at an affordable price.
+                      Our in-depth expertise is a one-step solution to analyze, design, and implement ERP solutions catered to specific client needs. We strive to streamline our clients' business operations with minimum hassle and maximum security, allowing your business to be cloud-based on a single user-friendly dashboard. From healthcare to retail, education to entertainment - our business solutions are equipped to overcome various industry-specific challenges and stand out from the crowd.
+
                     </>
                   ) : (
                     // Short content when collapsed
-                    " From healthcare to retail, education to entertainment - our business solutions are equipped to overcome various industry-specific challenges and stand out from the crowd...."
+                    "Our in-depth expertise is a one-step solution to analyze, design, and implement ERP solutions catered to specific client needs. We strive to streamline our clients' business operations with minimum hassle and maximum security..."
                   )}
                 </p>
 
@@ -115,51 +101,22 @@ const ServicesStyleOne = () => {
             </div>
 
             <div className="col-lg-4 col-md-6">
-              <div className="single-services">
-                <div className="icon ">
+              <div className="single-services-one">
+                <div className="icon">
                   <i className="flaticon-cellphone"></i>
                 </div>
                 <h3 className="text-capitalize text-uppercase">
-                  Mobile App Development
+                Mobile App Development
                 </h3>
                 <p>
                   {isExpanded ? (
                     // Full content when expanded
                     <>
-                      lding an app, we focus on three basic aspects - the look,
-                      the ease of use, and the conversion potential. While the
-                      UI/UX attracts the customers in the first place, a robust
-                      architecture & top-notch security determine the life of an
-                      app in the long run. We believe an app that delivers value
-                      to the users will eventually drive conversions for your
-                      business. Here is an overview of the holistic approach we
-                      adopt while providing mobile app development services.
-                      User First Strategy - UI/UX We consider the needs and
-                      preferences of the users while planning an app development
-                      strategy. If they find your app easy to operate, its
-                      popularity will grow and it’ll cut through the
-                      competition. Adaptability - Screen Sizes & Devices We
-                      build the interface of application adaptable to
-                      variations. We make sure that the text is readable and the
-                      navigation fits within the screen for a wide range of
-                      makes and models. Minimize Action Sequences Reducing the
-                      number of actions in an app effectively helps the users to
-                      accomplish a task quickly. Hence, we do the needful to
-                      simplify the user journey in the app. Security Our mobile
-                      app makers implement all the safety measures to protect
-                      sensitive data shared by the users. Further, we disclose
-                      the purpose of collecting every data to make the users
-                      feel comfortable using the app. Brand Focused Top mobile
-                      app development services are always tailored as per your
-                      requirement. We research your business extensively before
-                      starting the development process. Marketing & Promotion
-                      Our app store optimization services help your application
-                      to stand out from the crowd in the app market of the iOS
-                      and Android platforms.
+                     By developing mobile applications, Sinnox provides your organization, employees, clients and business partners with a convenient toolset to stay connected, have business data and processes at their fingertips and be productive regardless of their devices, time zone, and physical location.
                     </>
                   ) : (
                     // Short content when collapsed
-                    "lding an app, we focus on three basic aspects - the look, the ease of use, and the conversion potential...."
+                    "By developing mobile applications, Sinnox provides your organization, employees, clients and business partners with a convenient toolset to stay connected, have business data and processes at their fingertips and be productive regardless of their devices, time zone, and physical location."
                   )}
                 </p>
 
@@ -170,33 +127,23 @@ const ServicesStyleOne = () => {
             </div>
 
             <div className="col-lg-4 col-md-6">
-              <div className="single-services">
-                <div className="icon ">
+              <div className="single-services-one">
+                <div className="icon">
                   <i className="flaticon-it"></i>
                 </div>
                 <h3>
                   {/* ECOMMERCE WEBSITE DEVELOPMENT SERVICES */}
-                  Ecommerce Website Development Service
+                  Enterprise Software Development
                 </h3>
                 <p>
                   {isExpanded ? (
                     // Full content when expanded
                     <>
-                      Are you planning to expand your business by reaching out
-                      to your customers online? An eCommerce website would be
-                      the best option to enhance your customer base and increase
-                      your sales. Whether you want to create your first online
-                      store or upgrade an existing one, we can help you out with
-                      our results-driven eCommerce website development services.
-                      Hire experienced eCommerce website developers from Webguru
-                      Infosystems to build a top-notch online store and attract
-                      more customers. We promise you a rich user interface,
-                      seamless checkout process, advanced security features,
-                      easy-to-manage product inventory and much more.
+                      Sinnox team of enterprise software developers helps you design and implement custom apps that streamline versatile organizational and client-centric workflows. We create solutions from scratch or tune the up and running systems to smoothly embed them into your IT landscape.
                     </>
                   ) : (
                     // Short content when collapsed
-                    "Are you planning to expand your business by reaching out to your customers online? ...."
+                    "Sinnox team of enterprise software developers helps you design and implement custom apps that streamline versatile organizational and client-centric workflows. We create solutions from scratch or tune the up and running systems to smoothly embed them into your IT landscape."
                   )}
                 </p>
 
@@ -207,8 +154,8 @@ const ServicesStyleOne = () => {
             </div>
 
             <div className="col-lg-4 col-md-6">
-              <div className="single-services">
-                <div className="icon ">
+              <div className="single-services-one">
+                <div className="icon">
                   <i className="flaticon-optimize"></i>
                 </div>
                 <h3>IT Solutions</h3>
@@ -226,7 +173,7 @@ const ServicesStyleOne = () => {
                     </>
                   ) : (
                     // Short content when collapsed
-                    "Our agency offers a full suite of IT solutions tailored to meet modern business needs.From custom software development and cybersecurity..."
+                    " Our agency offers a full suite of IT solutions tailored to meet modern business needs. From custom software  development and cybersecurity to cloud integration and IT consulting, we provide innovative services designed to drive efficiency, security, and growth."
                   )}
                 </p>
 
@@ -338,7 +285,7 @@ const ServicesStyleOne = () => {
               </div>
             </div> */}
 
-            {/* Pagination */}
+            {/* Pagination
             <div className="col-lg-12 col-md-12">
               <div className="pagination-area">
                 <Link href="#" className="prev page-numbers">
@@ -365,7 +312,7 @@ const ServicesStyleOne = () => {
                   <i className="flaticon-right"></i>
                 </Link>
               </div>
-            </div>
+            </div> */}
           </div>
         
 

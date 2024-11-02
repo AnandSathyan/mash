@@ -157,7 +157,7 @@ const ServicesStyleTwo = () => {
               </div>
             </div>
 
-            {/* Pagination */}
+            Pagination
             <div className="col-lg-12 col-md-12">
               <div className="pagination-area">
                 <Link href="#" className="prev page-numbers">

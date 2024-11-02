@@ -9,10 +9,10 @@ export default function Services() {
       <Navbar />
 
       <PageBanner
-        pageTitle="Services One"
+        pageTitle="Our Services"
         homePageUrl="/"
         homePageText="Home"
-        activePageText="Services Style One"
+        activePageText="Services"
         bgImage="/images/page-title/page-title-bg-2.jpg"
       />
 

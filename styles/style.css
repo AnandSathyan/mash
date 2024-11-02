@@ -1345,7 +1345,281 @@ Services Area CSS
   z-index: 1;
   transition: 0.5s;
   box-shadow: 0 5px 40px 0 rgba(0, 0, 0, 0.11);
+  height: 400px;
 }
+.single-services-one{
+  text-align: center;
+  margin-bottom: 30px;
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 10px;
+  position: relative;
+  z-index: 1;
+  transition: 0.5s;
+  box-shadow: 0 5px 40px 0 rgba(0, 0, 0, 0.11);
+  height: 500px;
+}
+.single-services-one .icon {
+  transition: 0.5s;
+}
+.single-services-one .icon i {
+  display: inline-block;
+  height: 70px;
+  width: 90px;
+  line-height: 70px;
+  background-color: #f0f7fd;
+  text-align: center;
+  font-size: 30px;
+  color: #086AD8;
+  border-radius: 30px 5px 30px 5px;
+  transition: 0.5s;
+}
+.single-services-one .icon.bg-deb0fe i {
+  background-color: #deb0fe;
+  color: #ffffff;
+  border-radius: 50px;
+  height: 70px;
+  width: 70px;
+  line-height: 70px;
+}
+.single-services-one .icon.bg-79e8e2 i {
+  background-color: #79e8e2;
+  color: #ffffff;
+  border-radius: 50px;
+  height: 70px;
+  width: 70px;
+  line-height: 70px;
+}
+.single-services-one .icon.bg-fcc774 i {
+  background-color: #fcc774;
+  color: #ffffff;
+  border-radius: 50px;
+  height: 70px;
+  width: 70px;
+  line-height: 70px;
+}
+.single-services-one .icon.bg-84b7fd i {
+  background-color: #84b7fd;
+  color: #ffffff;
+  border-radius: 50px;
+  height: 70px;
+  width: 70px;
+  line-height: 70px;
+}
+.single-services-one .icon.bg-fe929f i {
+  background-color: #fe929f;
+  color: #ffffff;
+  border-radius: 50px;
+  height: 70px;
+  width: 70px;
+  line-height: 70px;
+}
+.single-services-one .icon.bg-2e1342 i {
+  background-color: #2e1342;
+  color: #ffffff;
+  border-radius: 50px;
+  height: 70px;
+  width: 70px;
+  line-height: 70px;
+}
+.single-services-one h3 {
+  font-size: 22px;
+  margin: 25px 0 10px 0;
+  transition: 0.5s;
+}
+.single-services-one p {
+  margin-bottom: 0;
+  transition: 0.5s;
+}
+.single-services-one .read-btn {
+  display: inline-block;
+  margin-top: 12px;
+  font-weight: 600;
+  font-size: 15px;
+}
+.single-services-one::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -1;
+  width: 100%;
+  height: 0%;
+  background: orange;
+  border-radius: 0;
+  transition: 0.5s;
+  border-radius: 10px;
+}
+.single-services-one:hover {
+  box-shadow: 0 5px 40px 0 rgba(0, 0, 0, 0.11);
+}
+.single-services-one:hover::before {
+  height: 100%;
+}
+.single-services-one:hover h3 {
+  color: #ffffff;
+}
+.single-services-one:hover p {
+  color: #ffffff;
+}
+.single-services-one:hover .read-btn {
+  color: #ffffff;
+}
+
+.single-services-two {
+  text-align: center;
+  margin-bottom: 30px;
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 10px;
+  position: relative;
+  z-index: 1;
+  transition: 0.5s;
+  border: 1px dashed #c77efb;
+}
+.single-services-two .icon i {
+  color: #c77efb;
+  font-size: 50px;
+  transition: 0.5s;
+}
+.single-services-two h3 {
+  font-size: 22px;
+  margin: 15px 0 10px 0;
+  transition: 0.5s;
+}
+.single-services-two p {
+  margin-bottom: 0;
+  transition: 0.5s;
+}
+.single-services-two .read-btn {
+  display: inline-block;
+  margin-top: 12px;
+  font-weight: 600;
+  font-size: 15px;
+}
+.single-services-two::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -1;
+  width: 100%;
+  height: 0%;
+  background: #c77efb;
+  border-radius: 0;
+  transition: 0.5s;
+  border-radius: 10px;
+}
+.single-services-two:hover {
+  box-shadow: 0 5px 40px 0 rgba(0, 0, 0, 0.11);
+}
+.single-services-two:hover::before {
+  height: 100%;
+}
+.single-services-two:hover h3 {
+  color: #ffffff;
+}
+.single-services-two:hover p {
+  color: #ffffff;
+}
+.single-services-two:hover .read-btn {
+  color: #ffffff;
+}
+.single-services-two:hover .icon i {
+  color: #ffffff;
+}
+.single-services-two.bg-fc9ba7 {
+  border: 1px dashed #fc9ba7;
+}
+.single-services-two.bg-fc9ba7 .icon i {
+  color: #fc9ba7;
+}
+.single-services-two.bg-fc9ba7::before {
+  background: #fc9ba7;
+}
+.single-services-two.bg-fc9ba7:hover {
+  box-shadow: 0 5px 40px 0 rgba(0, 0, 0, 0.11);
+}
+.single-services-two.bg-fc9ba7:hover::before {
+  height: 100%;
+}
+.single-services-two.bg-fc9ba7:hover .icon i {
+  color: #ffffff;
+}
+.single-services-two.bg-2cdcf7 {
+  border: 1px dashed #2cdcf7;
+}
+.single-services-two.bg-2cdcf7 .icon i {
+  color: #2cdcf7;
+}
+.single-services-two.bg-2cdcf7::before {
+  background: #2cdcf7;
+}
+.single-services-two.bg-2cdcf7:hover {
+  box-shadow: 0 5px 40px 0 rgba(0, 0, 0, 0.11);
+}
+.single-services-two.bg-2cdcf7:hover::before {
+  height: 100%;
+}
+.single-services-two.bg-2cdcf7:hover .icon i {
+  color: #ffffff;
+}
+.single-services-two.bg-009af0 {
+  border: 1px dashed #009af0;
+}
+.single-services-two.bg-009af0 .icon i {
+  color: #009af0;
+}
+.single-services-two.bg-009af0::before {
+  background: #009af0;
+}
+.single-services-two.bg-009af0:hover {
+  box-shadow: 0 5px 40px 0 rgba(0, 0, 0, 0.11);
+}
+.single-services-two.bg-009af0:hover::before {
+  height: 100%;
+}
+.single-services-two.bg-009af0:hover .icon i {
+  color: #ffffff;
+}
+.single-services-two.bg-f4d62c {
+  border: 1px dashed #f4d62c;
+}
+.single-services-two.bg-f4d62c .icon i {
+  color: #f4d62c;
+}
+.single-services-two.bg-f4d62c::before {
+  background: #f4d62c;
+}
+.single-services-two.bg-f4d62c:hover {
+  box-shadow: 0 5px 40px 0 rgba(0, 0, 0, 0.11);
+}
+.single-services-two.bg-f4d62c:hover::before {
+  height: 100%;
+}
+.single-services-two.bg-f4d62c:hover .icon i {
+  color: #ffffff;
+}
+.single-services-two.bg-1e2d75 {
+  border: 1px dashed #1e2d75;
+}
+.single-services-two.bg-1e2d75 .icon i {
+  color: #1e2d75;
+}
+.single-services-two.bg-1e2d75::before {
+  background: #1e2d75;
+}
+.single-services-two.bg-1e2d75:hover {
+  box-shadow: 0 5px 40px 0 rgba(0, 0, 0, 0.11);
+}
+.single-services-two.bg-1e2d75:hover::before {
+  height: 100%;
+}
+.single-services-two.bg-1e2d75:hover .icon i {
+  color: #ffffff;
+}
+
+
 .single-services .icon {
   transition: 0.5s;
 }
@@ -1432,7 +1706,7 @@ Services Area CSS
   z-index: -1;
   width: 100%;
   height: 0%;
-  background: #00b0ee;
+  background: orange;
   border-radius: 0;
   transition: 0.5s;
   border-radius: 10px;

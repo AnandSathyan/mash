@@ -23,7 +23,7 @@ const Portfolio = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="single-protfolio">
                 <div className="image">
-                  <Link href="/projects/details">
+                  <Link href="/portfolio/details">
                     <Image
                       src="/images/portfolio/portfolio1.png"
                       alt="image"
@@ -34,7 +34,7 @@ const Portfolio = () => {
                 </div>
 
                 <div className="content">
-                  <Link href="/projects/details">
+                  <Link href="/portfolio/details">
                     <h3>Creative Web Develop</h3>
                     <span>Web Design</span>
                   </Link>
@@ -45,7 +45,7 @@ const Portfolio = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="single-protfolio">
                 <div className="image">
-                  <Link href="/projects/details">
+                  <Link href="/portfolio/details">
                     <Image
                       src="/images/portfolio/portfolio2.png"
                       alt="image"
@@ -56,7 +56,7 @@ const Portfolio = () => {
                 </div>
 
                 <div className="content">
-                  <Link href="/projects/details">
+                  <Link href="/portfolio/details">
                     <h3>Digital Services</h3>
                     <span>App Development</span>
                   </Link>
@@ -67,7 +67,7 @@ const Portfolio = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="single-protfolio">
                 <div className="image">
-                  <Link href="/projects/details">
+                  <Link href="/portfolio/details">
                     <Image
                       src="/images/portfolio/portfolio3.png"
                       alt="image"
@@ -78,7 +78,7 @@ const Portfolio = () => {
                 </div>
 
                 <div className="content">
-                  <Link href="/projects/details">
+                  <Link href="/portfolio/details">
                     <h3>Complex Design</h3>
                     <span>Software Development</span>
                   </Link>
@@ -89,7 +89,7 @@ const Portfolio = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="single-protfolio">
                 <div className="image">
-                  <Link href="/projects/details">
+                  <Link href="/portfolio/details">
                     <Image
                       src="/images/portfolio/portfolio4.png"
                       alt="image"
@@ -100,7 +100,7 @@ const Portfolio = () => {
                 </div>
 
                 <div className="content">
-                  <Link href="/projects/details">
+                  <Link href="/portfolio/details">
                     <h3>Creative Web Develop</h3>
                     <span>React Development</span>
                   </Link>
@@ -111,7 +111,7 @@ const Portfolio = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="single-protfolio">
                 <div className="image">
-                  <Link href="/projects/details">
+                  <Link href="/portfolio/details">
                     <Image
                       src="/images/portfolio/portfolio5.png"
                       alt="image"
@@ -122,7 +122,7 @@ const Portfolio = () => {
                 </div>
 
                 <div className="content">
-                  <Link href="/projects/details">
+                  <Link href="/portfolio/details">
                     <h3>Digital Services</h3>
                     <span>E-commerce Development</span>
                   </Link>
@@ -133,7 +133,7 @@ const Portfolio = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="single-protfolio">
                 <div className="image">
-                  <Link href="/projects/details">
+                  <Link href="/portfolio/details">
                     <Image
                       src="/images/portfolio/portfolio6.png"
                       alt="image"
@@ -144,7 +144,7 @@ const Portfolio = () => {
                 </div>
 
                 <div className="content">
-                  <Link href="/projects/details">
+                  <Link href="/portfolio/details">
                     <h3>Complex Design</h3>
                     <span>Software Engineering</span>
                   </Link>

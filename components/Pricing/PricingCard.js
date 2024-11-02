@@ -26,7 +26,7 @@ const PricingCard = () => {
                 </div>
 
                 <div className="price">
-                  <sup>$</sup>29<sub>/mo</sub>
+                  <sup className="">KWD</sup>20<sub>/mo</sub>
                 </div>
 
                 <ul className="pricing-list">
@@ -71,7 +71,7 @@ const PricingCard = () => {
                 </div>
 
                 <div className="price">
-                  <sup>$</sup>79<sub>/mo</sub>
+                  <sup>KWD</sup>50<sub>/mo</sub>
                 </div>
 
                 <ul className="pricing-list">
@@ -117,7 +117,7 @@ const PricingCard = () => {
                 </div>
 
                 <div className="price">
-                  <sup>$</sup>99<sub>/mo</sub>
+                  <sup>KWD</sup>100<sub>/mo</sub>
                 </div>
 
                 <ul className="pricing-list">
