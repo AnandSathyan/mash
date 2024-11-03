@@ -66,7 +66,7 @@ const AboutContent = () => {
                     </li>
 
                     <li onClick={(e) => openTabSection(e, "tab3")}>
-                      <span>Friendly Support</span>
+                      <span>Our Vision</span>
                     </li>
                   </ul>
 
@@ -115,11 +115,15 @@ const AboutContent = () => {
                     <div id="tab2" className="tabs_item">
                       <div className="text">
                         <h3>
-                          How to generate your Creative Idea With IT Business
+                        We strive to be more than just a service provider; we aim to be trusted IT solution provider.
+                        <br/>
+                        <br/>
                         </h3>
+                       <span> We pride ourselves on delivering a value proposition that goes beyond expectations. Our approach is centered on understanding your business inside</span>
+
                       </div>
 
-                      <ul className="list">
+                      {/* <ul className="list">
                         <li>
                           <i className="flaticon-tick"></i>
                           The Philosopy of Business Analytics
@@ -136,7 +140,7 @@ const AboutContent = () => {
                           <i className="flaticon-tick"></i>
                           The Ultimate Deal on Business
                         </li>
-                      </ul>
+                      </ul> */}
 
                       {/* <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit,
@@ -154,11 +158,18 @@ const AboutContent = () => {
                     <div id="tab3" className="tabs_item">
                       <div className="text">
                         <h3>
-                          How to generate your Creative Idea With IT Business
+                        Growing with our clients to cater there demands.
+
                         </h3>
+                        <br/>
+                        <br/>
+
+                        <span>
+                        Become essential to our customers by providing differentiated products and services to help them achieve their aspirations
+                        </span>
                       </div>
 
-                      <ul className="list">
+                      {/* <ul className="list">
                         <li>
                           <i className="flaticon-tick"></i>
                           The Philosopy of Business Analytics
@@ -175,7 +186,7 @@ const AboutContent = () => {
                           <i className="flaticon-tick"></i>
                           The Ultimate Deal on Business
                         </li>
-                      </ul>
+                      </ul> */}
 
                       {/* <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit,
